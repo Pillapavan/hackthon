@@ -1,0 +1,27 @@
+ *{
+    margin: 0%;
+ }
+ body{
+font-weight: 600;
+font-size: 5ch;
+ }
+
+ .color{
+    color: blueviolet;
+    font-family: serif;
+background-color: lawngreen;
+ }
+#p1,#p2,#p3{
+    color: blue;
+}
+#first>p{
+    color: rgb(9, 93, 104);
+    background-color: darkorange;
+}
+#color{
+    font-size: medium;
+    font-display: bold;
+}
+p:hover{
+    font-family: monospace;
+}

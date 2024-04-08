@@ -1,0 +1,42 @@
+*{
+    /* border: 1px solid blueviolet; */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    width: 50%;
+    display: block;
+    width: 300px;
+    color: darkorange;
+   
+}
+
+img{
+    /* display: block; */
+    width: 300px;
+}
+a{
+    display: block;
+    width: 100px;
+}
+ul{
+    /* list-style: none; */
+    text-align: end;
+    padding: 40px;
+    background-color: rgb(18, 235, 235);
+    color: rgb(245, 19, 34);
+}
+li{
+    display:inline;
+    padding: 20px;
+}
+li:hover{
+    color: blue;
+    cursor: pointer;
+}

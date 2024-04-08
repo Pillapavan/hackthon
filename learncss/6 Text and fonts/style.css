@@ -1,0 +1,38 @@
+
+
+body{
+    font-family: "anta", sans-serif;
+}
+  
+h1{
+    color:rgb(53, 15, 148);
+    background-color: antiquewhite;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(179, 76, 12);
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow:  3px 3px 1px rgb(15, 232, 58); 
+   
+  }
+p{
+    text-align: justify;
+    text-indent: 30px;
+    letter-spacing: 0.1rem;
+    line-height: 1.5rem;
+    word-spacing: 0.4rem; 
+    /* white-space: nowrap; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:large;
+    font-weight: 500;
+}
+
+a{
+     text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(179, 76, 12);
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px; 
+}

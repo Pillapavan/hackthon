@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;}
+.leopard{
+    border: 10px solid rgba(47, 255, 0, 0.848);
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(255, 0, 0);
+    width: 400px;
+    height: 250px;
+}
+.leopard img{
+    width: 100%;
+}
+.leopard p{
+    font-size: 2rem;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+   
+}
